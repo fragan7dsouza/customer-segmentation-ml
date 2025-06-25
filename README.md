@@ -41,4 +41,4 @@ This project focuses on segmenting customers based on their purchasing behavior 
 ## 📬 Contact
 
 Built during my AIML internship at Dlithe.
-Feel free to reach out or connect on [LinkedIn](www.linkedin.com/in/fragan-d-souza-64626a29b) 🚀
+Feel free to reach out or connect on LinkedIn (www.linkedin.com/in/fragan-d-souza-64626a29b) 
